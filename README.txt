@@ -15,3 +15,5 @@ Press X to find a single Pixel on your screen, it will print 10
 times to assure accuracy, each with a 0.5 second delay.
 
 If you wish to exit the program press L
+
+You can tweak the program however you desire
